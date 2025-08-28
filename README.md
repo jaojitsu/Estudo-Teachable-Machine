@@ -1,4 +1,3 @@
-Título e Imagem de capa;
 ![alt text](image.png)
 <h1 align="center"> Primeiro estudo utilizando visao computacional - Techable Machine</h1>
 
@@ -37,11 +36,11 @@ Funcionalidades e Demonstração da Aplicação;
 
 - `Etapa 4`: Elaborar um relatório em PDF detalhando o processo de desenvolvimento do modelo, incluindo:
 
-     - `Etapa 2a`: Descrição dos objetivos e da metodologia utilizada.
-     - `Etapa 2b`: Prints das principais etapas do projeto, incluindo da taxa de acurácia final.
-     - `Etapa 2c`: Explicação de como cada etapa foi realizada.
-     - `Etapa 2d`: Justificativa técnica dos resultados obtidos.
-     - `Etapa 2e`: Análise crítica do desempenho do modelo e sugestões de melhorias.
+     - `Etapa 4a`: Descrição dos objetivos e da metodologia utilizada.
+     - `Etapa 4b`: Prints das principais etapas do projeto, incluindo da taxa de acurácia final.
+     - `Etapa 4c`: Explicação de como cada etapa foi realizada.
+     - `Etapa 4d`: Justificativa técnica dos resultados obtidos.
+     - `Etapa 4e`: Análise crítica do desempenho do modelo e sugestões de melhorias.
 
 # :hammer:📌Demonstração da Aplicação
 
