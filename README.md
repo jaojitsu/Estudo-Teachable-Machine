@@ -9,7 +9,7 @@ A cozinha é um ambiente repleto de utensílios que facilitam o preparo das refe
 
 Neste estudo de caso, utilizaremos o Teachable Machine do Google para desenvolver um modelo de IA capaz de identificar e classificar diferentes utensílios de cozinha a partir de fotografias. O modelo será construído de forma interativa e acessível, utilizando uma interface amigável que não exige conhecimentos técnicos aprofundados.
 
-Status do Projeto:
+Status do Projeto:<br>
 ![Static Badge](https://img.shields.io/badge/Status-Finished-green)
 
 Funcionalidades e Demonstração da Aplicação;
