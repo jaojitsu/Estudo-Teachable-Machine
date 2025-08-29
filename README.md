@@ -42,7 +42,7 @@ Funcionalidades e Demonstração da Aplicação;
      - `Etapa 4e`: Análise crítica do desempenho do modelo e sugestões de melhorias.
 
 ## 📌Demonstração da Aplicação
-[Esudo Techable Machine](Techable_Machine.pdf)
+[Esudo Techable Machine](TechableMachine.pdf)
 
 ## 📌Acesso ao Projeto
 Tecnologias utilizadas;
