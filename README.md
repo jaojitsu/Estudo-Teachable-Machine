@@ -45,7 +45,21 @@ Funcionalidades e Demonstração da Aplicação;
 [Esudo Techable Machine](Estudo-Teachable-Machine/TechableMachine.pdf)
 
 ## 📌Acesso ao Projeto
-Tecnologias utilizadas;
-Pessoas Contribuidoras;
-Pessoas Desenvolvedoras do Projeto;
-Licença.
+
+## 📌Tecnologias utilizadas
+O projeto utilizou a Teachable Machine, plataforma do Google que permite treinar modelos de aprendizado de máquina (machine learning) de forma acessível, sem a necessidade de programar diretamente. Ela gera modelos de classificação de imagens, sons ou poses que depois podem ser exportados para uso em aplicações web ou móveis.
+
+## 📌Pessoas Contribuidoras
+**-Renan Francisco de Paula**
+**-Jonas Luis da Silva**
+**-João Vitor Severo Oliveira**
+
+## 📌Licença
+Este estudo foi desenvolvido para fins acadêmicos pelos autores **Renan Francisco de Paula**, **Jonas Luis da Silva** e **João Vitor Severo Oliveira**.  
+
+O conteúdo está licenciado sob a **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.  
+Isso significa que você pode **compartilhar** e **adaptar** este material, desde que:  
+- Dê o devido **crédito aos autores**;  
+- **Não utilize para fins comerciais**.  
+
+🔗 Saiba mais: [Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
