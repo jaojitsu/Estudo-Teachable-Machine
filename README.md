@@ -1,8 +1,17 @@
 ![alt text](image.png)
 <h1 align="center"> Primeiro estudo utilizando visao computacional - Techable Machine</h1>
 
-Índice;
-## 📌 Descrição do Projeto:
+## 📌Índice:
+
+- [📌 Descrição do Projeto](#-descrição-do-projeto)
+- [📌 Etapas do Estudo](#hammer📌etapas-do-estudo)
+- [📌 Demonstração da Aplicação](#-demonstração-da-aplicação)
+- [📌 Acesso ao Projeto](#-acesso-ao-projeto)
+- [📌 Tecnologias Utilizadas](#-tecnologias-utilizadas)
+- [📌 Pessoas Contribuidoras](#-pessoas-contribuidoras)
+- [📌 Licença](#-licença)
+  
+## 📌Descrição do Projeto:
 A cozinha é um ambiente repleto de utensílios que facilitam o preparo das refeições. No entanto, encontrar o utensílio certo pode ser um desafio, principalmente para quem tem pouco espaço de armazenamento ou para pessoas com deficiência visual. A Inteligência Artificial (IA) pode ser uma aliada nessa tarefa, permitindo a detecção automática de utensílios de cozinha através de imagens.
 
 Neste estudo de caso, utilizaremos o Teachable Machine do Google para desenvolver um modelo de IA capaz de identificar e classificar diferentes utensílios de cozinha a partir de fotografias. O modelo será construído de forma interativa e acessível, utilizando uma interface amigável que não exige conhecimentos técnicos aprofundados.
