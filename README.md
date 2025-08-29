@@ -50,7 +50,7 @@ Status do Projeto:<br>
      - `Etapa 4e`: Análise crítica do desempenho do modelo e sugestões de melhorias.
 
 ## 📌Demonstração da Aplicação
-[Esudo Techable Machine](Estudo-Teachable-Machine/TechableMachine.pdf)
+[Esudo Techable Machine](Estudo-Teachable-Machine/TeachableMachine.pdf)
 
 ## 📌Acesso ao Projeto
 Você pode acessar o modelo de classificação de utensílios treinado no **Teachable Machine** de duas formas:
