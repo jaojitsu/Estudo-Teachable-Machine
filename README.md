@@ -2,7 +2,6 @@
 <h1 align="center"> Primeiro estudo utilizando visao computacional - Techable Machine</h1>
 
 Índice;
-Descrição do Projeto;
 ## 📌 Descrição do Projeto:
 A cozinha é um ambiente repleto de utensílios que facilitam o preparo das refeições. No entanto, encontrar o utensílio certo pode ser um desafio, principalmente para quem tem pouco espaço de armazenamento ou para pessoas com deficiência visual. A Inteligência Artificial (IA) pode ser uma aliada nessa tarefa, permitindo a detecção automática de utensílios de cozinha através de imagens.
 
@@ -42,7 +41,8 @@ Funcionalidades e Demonstração da Aplicação;
      - `Etapa 4d`: Justificativa técnica dos resultados obtidos.
      - `Etapa 4e`: Análise crítica do desempenho do modelo e sugestões de melhorias.
 
-# :hammer:📌Demonstração da Aplicação
+## 📌Demonstração da Aplicação
+[Esudo Techable Machine](Techable_Machine.pdf)
 
 ## 📌Acesso ao Projeto
 Tecnologias utilizadas;
