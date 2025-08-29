@@ -19,7 +19,6 @@ Neste estudo de caso, utilizaremos o Teachable Machine do Google para desenvolve
 Status do Projeto:<br>
 ![Static Badge](https://img.shields.io/badge/Status-Finished-green)
 
-Funcionalidades e Demonstração da Aplicação;
 # :hammer:📌Etapas do estudo
 - `Etapa 1`: Coleta de dados:
 
