@@ -45,13 +45,29 @@ Funcionalidades e Demonstração da Aplicação;
 [Esudo Techable Machine](Estudo-Teachable-Machine/TechableMachine.pdf)
 
 ## 📌Acesso ao Projeto
+Você pode acessar o modelo de classificação de utensílios treinado no **Teachable Machine** de duas formas:
+
+1. **Acesso Online (Recomendado)**  
+   👉 [Clique aqui para testar o modelo](LINK_DO_MODELO)  
+
+2. **Executando localmente**  
+   - Baixe os arquivos exportados do modelo na pasta `/model`.  
+   - Utilize **TensorFlow.js** para rodar em aplicações web, ou **TensorFlow Lite** para rodar em dispositivos móveis.  
+   - Exemplo de uso em JavaScript:  
+
+   ```javascript
+   // Carregar modelo
+   const model = await tmImage.load('model.json', 'metadata.json');
+   // Fazer previsão
+   const prediction = await model.predict(imagem);
+   console.log(prediction);
 
 ## 📌Tecnologias utilizadas
 O projeto utilizou a Teachable Machine, plataforma do Google que permite treinar modelos de aprendizado de máquina (machine learning) de forma acessível, sem a necessidade de programar diretamente. Ela gera modelos de classificação de imagens, sons ou poses que depois podem ser exportados para uso em aplicações web ou móveis.
 
 ## 📌Pessoas Contribuidoras
-**-Renan Francisco de Paula**
-**-Jonas Luis da Silva**
+**-Renan Francisco de Paula**<br>
+**-Jonas Luis da Silva**<br>
 **-João Vitor Severo Oliveira**
 
 ## 📌Licença
