@@ -4,7 +4,7 @@
 ## 📌Índice:
 
 - [📌 Descrição do Projeto](#-descrição-do-projeto)
-- [📌 Etapas do Estudo](#hammer📌etapas-do-estudo)
+- [📌 Etapas do estudo](#hammeretapas-do-estudo)
 - [📌 Demonstração da Aplicação](#-demonstração-da-aplicação)
 - [📌 Acesso ao Projeto](#-acesso-ao-projeto)
 - [📌 Tecnologias Utilizadas](#-tecnologias-utilizadas)
